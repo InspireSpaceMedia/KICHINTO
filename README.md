@@ -1,4 +1,4 @@
-![Uploading hero.png…]()
+<img width="1920" height="959" alt="hero" src="https://github.com/user-attachments/assets/8184280d-76e3-4f30-bf0e-6f8e08491b6b" />
 <!DOCTYPE html>
 <html lang="ja">
 <head>
